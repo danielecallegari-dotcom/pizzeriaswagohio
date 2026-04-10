@@ -4,7 +4,7 @@ body { font-family: Arial, sans-serif; background:#1a1a1a; color:#fff; }
 .header h1 { font-size:2em; }
 .header p { font-size:1em; color:#f0a0a0; }
 .nav { display:flex; background:#222; }
-.tab-btn { flex:1; padding:15px; background:none; border:none; color:#aaa; font-size:1em; cursor:pointer; }
+.tab-btn { flex:1; padding:16px; background:none; border:none; color:#aaa; font-size:1em; cursor:pointer; }
 .tab-btn.active { color:#fff; border-bottom:3px solid #c0392b; }
 .tab-btn:hover { background:#333; }
 .tm-tab-content { display:none; padding:20px; }
