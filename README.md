@@ -1,6 +1,6 @@
 # pizzeriaswagohio
 paoloni - callegari - donnini
 
-Paoloni:menu
-Donnini:correzzione
-Callegari:creatore
+Paoloni pizza
+Donnini:dolci
+Callegari:bevande
